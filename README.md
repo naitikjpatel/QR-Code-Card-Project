@@ -25,3 +25,8 @@ Designed with simplicity in mind, this project caters to both beginners and seas
 
 🎉 **Share Your Story:**
 Tell your story through these static QR code cards, combining the convenience of QR technology with the charm of personalized design. Whether for personal branding or professional networking, let your creativity shine through these static QR code cards! ✨
+
+**Image Of Project**
+
+<img width="957" alt="image" src="https://github.com/naitikjpatel/QR-Code-Card-Project/assets/120157810/a7d218da-ff26-44e7-afe1-ea23d768a889">
+
